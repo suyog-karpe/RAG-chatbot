@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+aiofiles
+aiohttp
+httpx
+python-dotenv
+watchdog
+nltk
+sentence-transformers
+pinecone-client
+ollama
+huggingface_hub
